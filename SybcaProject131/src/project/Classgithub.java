@@ -7,5 +7,9 @@ public class Classgithub {
 
 		System.out.println("Hello world");
 	}
+	
+	void display() {
+		System.out.println("Branch commit");
+	}
 
 }
